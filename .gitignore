@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.env
+.env.local
+.env.production
+.DS_Store
+*.log
+tts.mp3
+node_modules/
+.vscode/
+*.db
+*.sqlite
